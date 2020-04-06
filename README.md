@@ -1,4 +1,4 @@
-2. Customer Segmentation - RFM clustering (Revenue, Frequency and Monetary value based clustering)
+Customer Segmentation - RFM clustering (Revenue, Frequency and Monetary value based clustering)
 
 	Visualise and explore data in the Dataset. Dataset containe fields such as Customer details, inovice dates, order value, quantity etc.
 
