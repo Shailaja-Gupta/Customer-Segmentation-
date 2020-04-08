@@ -1,7 +1,11 @@
-<p align='centre'><h2><center>Customer Segmentation</center>
-<br>RFM clustering (Revenue, Frequency and Monetary value based clustering)
-</p></h2>
 
+
+
+<p align="center">
+<h2><center>Customer Segmentation</center>
+RFM clustering (Revenue, Frequency and Monetary value based clustering)</h2>
+</p>
+<br>
 * Visualise and explore data in the Dataset. Dataset containe fields such as Customer details, inovice dates, order value, quantity etc.
 * Divide people into clusters so that we can make customised strategies for each person.
 * Clusters to be made based on Recency, Frequency and Revenue. So make different clusters on the basis of the 3 parameters.
