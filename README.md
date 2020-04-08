@@ -1,4 +1,4 @@
-<p align='center'><h2><center>Customer Segmentation</center>
+<p align='centre'><h2><center>Customer Segmentation</center>
 <br>RFM clustering (Revenue, Frequency and Monetary value based clustering)
 </p></h2>
 
